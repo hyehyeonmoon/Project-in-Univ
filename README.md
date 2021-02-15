@@ -8,5 +8,8 @@
 |2020.11~12|리조트 호텔 예약취소 고객의 특징 파악연구(logistic regression and decision tree)|Regression Analysis 2 | [Slides](https://github.com/hyehyeonmoon/Project-in-Univ./blob/main/%EB%A6%AC%EC%A1%B0%ED%8A%B8%20%ED%98%B8%ED%85%94%20%EC%98%88%EC%95%BD%EC%B7%A8%EC%86%8C%20%EA%B3%A0%EA%B0%9D%EC%9D%98%20%ED%8A%B9%EC%A7%95%20%ED%8C%8C%EC%95%85%EC%97%B0%EA%B5%AC/%EB%A6%AC%EC%A1%B0%ED%8A%B8%20%ED%98%B8%ED%85%94%20%EC%98%88%EC%95%BD%EC%B7%A8%EC%86%8C%20%EA%B3%A0%EA%B0%9D%EC%9D%98%20%ED%8A%B9%EC%A7%95%20%ED%8C%8C%EC%95%85%EC%97%B0%EA%B5%AC.pdf) |
 
 
+#비타민 [Github link](https://github.com/hyehyeonmoon/BITAmin_Machine_Learning)
+#프로젝트 [Github link](https://github.com/hyehyeonmoon/Project-in-Univ.)
+#빅콘테스트 [Github link](https://github.com/hyehyeonmoon/2020_Big_contest)
 
 
